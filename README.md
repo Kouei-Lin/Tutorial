@@ -1,2 +1,2 @@
 # Tutorial
-Home repo for codeles conduct
+Home Repo for Codeles Conduct
