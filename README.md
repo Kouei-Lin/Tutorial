@@ -9,5 +9,6 @@ Links to the tutorials:
 [Kleros Juror Tutorial(xDai)](https://www.notion.so/codelesss/Kleros-Juror-Tutorial-Gnosis-xDAI-0486388183814359a06ba1639d0ae9e2)
 
 Let me know if there's any problem accessing the Notion website.
+
 Discord `Kouei#3588`
 Email: `hungjui11@gmail.com`
