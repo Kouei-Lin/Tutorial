@@ -11,4 +11,5 @@ Links to the tutorials:
 Let me know if there's any problem accessing the Notion website.
 
 Discord `Kouei#3588`
+
 Email: `hungjui11@gmail.com`
