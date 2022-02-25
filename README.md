@@ -4,7 +4,7 @@
 
 Links to the articles:
 
-[Kleros_Intro](https://codelesss.notion.site/What-is-Kleros-5e0a6fcb4d2f445d9e4aa71ae521f606)
+[Kleros Intro](https://codelesss.notion.site/What-is-Kleros-5e0a6fcb4d2f445d9e4aa71ae521f606)
 
 [Kleros Juror Tutorial(Mainnet)](https://www.notion.so/codelesss/Kleros-Juror-Tutorial-Mainnet-2b4f49165ff642bab377c37b7051a943)
 
