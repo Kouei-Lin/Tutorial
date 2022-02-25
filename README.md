@@ -1,8 +1,8 @@
-# Tutorial
+# Kleros Article
 
-The home for Codeless Conduct - Open Track - Marketing
+###The home for Codeless Conduct - Open Track - Marketing
 
-Links to the tutorials:
+Links to the articles:
 
 [Kleros_Intro](https://codelesss.notion.site/What-is-Kleros-5e0a6fcb4d2f445d9e4aa71ae521f606)
 
