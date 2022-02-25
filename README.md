@@ -1,6 +1,6 @@
 # Kleros Article
 
-###The home for Codeless Conduct - Open Track - Marketing
+### The home for Codeless Conduct - Open Track - Marketing 📝
 
 Links to the articles:
 
